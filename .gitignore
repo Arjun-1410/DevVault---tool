@@ -1,0 +1,8 @@
+# Python artifacts for DevVault itself
+__pycache__/
+*.pyc
+# Virtual environments created by DevVault
+venv/
+# OS specific files
+.DS_Store
+Thumbs.db
